@@ -1,0 +1,8 @@
+# Projek GIS Sungai
+
+**Tools:** QGIS, ArcGIS  
+**Dataset:** Sungai Malaysia (CSV + Shapefile)  
+**Deskripsi:**  
+Projek ini menampilkan peta sungai di Malaysia menggunakan QGIS. Data diolah untuk analisis banjir dan peta visual.  
+
+**Link GitHub:** [repo-projek](https://github.com/amalmukhlis02-source/HydroPortfolio)
